@@ -14,3 +14,6 @@ by us.  We appreciate your time and effort. In github, Fork the repository to ma
 push them to the main branch of the repository. Your contributions will then be considered to add to the project. please be mindful of 
 the code of conduct and liscence. 
 
+
+We chose the code of conduct and liscence because they are broad, open, and general. Our program is not complicated, so there was no need for a specific liscense or c.o.c. 
+

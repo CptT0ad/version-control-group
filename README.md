@@ -11,5 +11,6 @@ Usage Documentation:  This program is used for joining two strings together. Fol
 
 How to contribute:   Out of the kindness of your heart PLEASE.  Any improvements to our code to expand upon or otherwise add to the usability or general ability will be welcome and reviewed
 by us.  We appreciate your time and effort. In github, Fork the repository to make your own. make any changes, and commit those changes to your repository. Once these changes are committed,
-push them to the main branch of the repository. Your contributions will then be considered to add to the project 
+push them to the main branch of the repository. Your contributions will then be considered to add to the project. please be mindful of 
+the code of conduct and liscence. 
 
